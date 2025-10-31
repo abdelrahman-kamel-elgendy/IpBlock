@@ -7,7 +7,7 @@ namespace IpBlock.Services
     public interface ICountryService
     {
         BlockCountryEntity AddBlocked(BlockCountryRequest request);
-
+        BlockCountryEntity AddBlocked(TemporalBlockRequest request);
         PagedResponse<object> GetAll(int page, int pageSize, string? q);
         bool RemoveBlocked(string countryCode);
     }

@@ -19,7 +19,7 @@ namespace IpBlock.Controllers
 
         [HttpPost("block")]
         public IActionResult BlockCountry([FromBody] BlockCountryRequest request) => CreatedAtAction(nameof(GetBlockedCountries), _service.AddBlocked(request));
-        
+
         [HttpDelete("block/{countryCode}")]
         public IActionResult UnblockCountry(string countryCode) 
         {
@@ -31,6 +31,10 @@ namespace IpBlock.Controllers
         
         [HttpGet("blocked")]
         public IActionResult GetBlockedCountries([FromQuery] int page = 1, [FromQuery] int pageSize = 10, [FromQuery] string? q = null) => Ok(_service.GetAll(page, pageSize, q));
+        
+        [HttpPost("temporal-block")]
+        public IActionResult TemporalBlockCountry([FromBody] TemporalBlockRequest request) => CreatedAtAction(nameof(GetBlockedCountries), _service.AddBlocked(request));
+
     }
 
 }

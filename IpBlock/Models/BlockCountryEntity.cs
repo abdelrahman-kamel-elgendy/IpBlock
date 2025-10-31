@@ -4,13 +4,20 @@ namespace IpBlock.Models
 {
     public class BlockCountryEntity
     {
-        public String Code { get; set; } = string.Empty;
-        public String Name { get; set; } = string.Empty;
+        public string Code { get; set; } = string.Empty;
+        public string Name { get; set; } = string.Empty;
 
-        public BlockCountryEntity(BlockCountryRequest request)
+        public bool IsTemporal { get; set; }
+        public DateTime ExpiresAt { get; set; }
+
+        public DateTime CreatedAt { get; set; }
+
+        public BlockCountryEntity(string countryCode, string name)
         {
-            Code = request.CountryCode;
-            Name = request.Name;
+            Code = countryCode;
+            Name = name;
+            IsTemporal = false;
+            CreatedAt = DateTime.Now;
         }
     }
 }

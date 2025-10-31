@@ -4,7 +4,6 @@ using IpBlock.Models.DTOs.Request;
 using IpBlock.Models.DTOs.Response;
 using System.Collections.Concurrent;
 
-
 namespace IpBlock.Repositories
 {
 
@@ -33,7 +32,22 @@ namespace IpBlock.Repositories
             };
         }
         public bool RemoveBlocked(string countryCode) => _blocked.TryRemove(countryCode, out _);
-        public bool IsBlocked(string countryCode) => (_blocked.TryGetValue(countryCode, out var entity) && (!entity.IsTemporal || entity.ExpiresAt > DateTime.Now)) ? true : false;
+        public bool IsBlocked(string countryCode)
+        {
+            if (_blocked.TryGetValue(countryCode, out BlockCountryEntity? country))
+            {
+                if (country.IsTemporal && country.ExpiresAt <= DateTime.Now)
+                {
+                    RemoveBlocked(countryCode);
+                    return false;
+                }
+                return true;
+            }
+
+            return false;
+        }
+
+        public IEnumerable<String> GetExpiredTemporalBlocks() => _blocked.Where(kv => kv.Value.ExpiresAt <= DateTimeOffset.UtcNow && kv.Value.IsTemporal).Select(kv => kv.Key);
     }
 
 }

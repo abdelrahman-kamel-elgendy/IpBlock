@@ -9,5 +9,6 @@ namespace IpBlock.Repositories
         bool RemoveBlocked(string countryCode);
         PagedResponse<object> GetAll(int page, int pageSize, string? q);
         bool IsBlocked(string countryCode);
+        IEnumerable<String> GetExpiredTemporalBlocks();
     }
 }

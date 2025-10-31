@@ -20,11 +20,25 @@ namespace IpBlock.Services
             if (_repo.IsBlocked(request.CountryCode))
                 throw new ConflictException("Country already blocked!");
 
-            BlockCountryEntity entity = new BlockCountryEntity(request);
+            BlockCountryEntity entity = new BlockCountryEntity(request.CountryCode, request.Name);
+
+            return entity;
+        }
+
+        public BlockCountryEntity AddBlocked(TemporalBlockRequest request)
+        {
+            if (_repo.IsBlocked(request.CountryCode))
+                throw new ConflictException("Country already blocked!");
+
+            BlockCountryEntity entity = new BlockCountryEntity(request.CountryCode, request.Name);
+            entity.IsTemporal = true;
+            entity.ExpiresAt = DateTime.Now.AddMinutes(request.DurationMinutes);
 
             if (!_repo.AddBlocked(entity))
-                throw new InternalServerErrorException("Data not saved!");
-            
+                if (_repo.RemoveBlocked(request.CountryCode))
+                    if (!_repo.AddBlocked(entity))
+                        throw new InternalServerErrorException("Data not saved!");
+
             return entity;
         }
 
