@@ -3,6 +3,7 @@ using IpBlock.Models;
 using IpBlock.Models.DTOs.Request;
 using IpBlock.Models.DTOs.Response;
 using IpBlock.Repositories;
+using System.Net;
 
 namespace IpBlock.Services
 {
@@ -17,8 +18,8 @@ namespace IpBlock.Services
 
         public BlockCountryEntity AddBlocked(BlockCountryRequest request)
         {
-            if (_repo.IsBlocked(request.CountryCode))
-                throw new ConflictException("Country already blocked!");
+            if (this.IsBlocked(request.CountryCode))
+                throw new AppException("Country already blocked!", HttpStatusCode.Conflict);
 
             BlockCountryEntity entity = new BlockCountryEntity(request.CountryCode, request.Name);
 
@@ -27,8 +28,8 @@ namespace IpBlock.Services
 
         public BlockCountryEntity AddBlocked(TemporalBlockRequest request)
         {
-            if (_repo.IsBlocked(request.CountryCode))
-                throw new ConflictException("Country already blocked!");
+            if (this.IsBlocked(request.CountryCode))
+                throw new AppException("Country already blocked!", HttpStatusCode.Conflict);
 
             BlockCountryEntity entity = new BlockCountryEntity(request.CountryCode, request.Name);
             entity.IsTemporal = true;
@@ -37,17 +38,19 @@ namespace IpBlock.Services
             if (!_repo.AddBlocked(entity))
                 if (_repo.RemoveBlocked(request.CountryCode))
                     if (!_repo.AddBlocked(entity))
-                        throw new InternalServerErrorException("Data not saved!");
+                        throw new AppException("Data not saved!", HttpStatusCode.InternalServerError);
 
             return entity;
         }
 
         public PagedResponse<object> GetAll(int page, int pageSize, string? q) => _repo.GetAll(page, pageSize, q);
 
+        public bool IsBlocked(string countryCode) => _repo.IsBlocked(countryCode);
+
         public bool RemoveBlocked(string countryCode)
         {
             if (!_repo.RemoveBlocked(countryCode))
-                throw new NotFoundException("Country Not found!");
+                throw new AppException("Country Not found!", HttpStatusCode.NotFound);
             
             return true;
         }

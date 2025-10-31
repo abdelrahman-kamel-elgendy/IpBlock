@@ -55,7 +55,7 @@ namespace IpBlock.Middleware
                 success = false,
                 statusCode = context.Response.StatusCode,
                 message,
-                timestamp = DateTime.UtcNow
+                timestamp = DateTime.Now
             };
 
             await context.Response.WriteAsync(JsonSerializer.Serialize(errorResponse));

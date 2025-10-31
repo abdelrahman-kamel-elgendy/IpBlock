@@ -2,6 +2,7 @@
 using IpBlock.Models.DTOs.Request;
 using IpBlock.Services;
 using Microsoft.AspNetCore.Mvc;
+using System.Net;
 
 namespace IpBlock.Controllers
 {
@@ -24,7 +25,7 @@ namespace IpBlock.Controllers
         public IActionResult UnblockCountry(string countryCode) 
         {
             if (!_service.RemoveBlocked(countryCode))
-                throw new InternalServerErrorException("Block not removed!");
+                throw new AppException("Block not removed!", HttpStatusCode.InternalServerError);
 
             return NoContent();
         }

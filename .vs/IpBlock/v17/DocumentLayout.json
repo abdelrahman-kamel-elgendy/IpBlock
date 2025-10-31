@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "D:\\Git\\IpBlock\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\services\\temporalblockcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\services\\temporalblockcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\controllers\\ipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\services\\iipapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\services\\iipapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\services\\ipapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\services\\ipapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\services\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\services\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\repositories\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\repositories\\ilogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\repositories\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\repositories\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\models\\blockcountryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\models\\blockcountryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\models\\blocklogentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\models\\blocklogentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\models\\dtos\\response\\iplookupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\models\\dtos\\response\\iplookupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +55,36 @@
       "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\models\\blockcountryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\models\\blockcountryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\options\\ipapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\options\\ipapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\options\\temporalblockcleanupoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\options\\temporalblockcleanupoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\services\\temporalblockcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\services\\temporalblockcleanupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\repositories\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,36 +95,12 @@
       "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\services\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\models\\dtos\\request\\blockcountryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\models\\dtos\\request\\blockcountryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\models\\dtos\\request\\temporalblockrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\models\\dtos\\request\\temporalblockrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\exceptions\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\exceptions\\internalservererrorexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|solutionrelative:ipblock\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADBD294F-B747-475D-A5CC-3CAB8EBB028C}|IpBlock\\IpBlock.csproj|d:\\git\\ipblock\\ipblock\\models\\dtos\\response\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,85 +122,241 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IpLookupResponse.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Models\\DTOs\\Response\\IpLookupResponse.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Models\\DTOs\\Response\\IpLookupResponse.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Models\\DTOs\\Response\\IpLookupResponse.cs",
+              "RelativeToolTip": "IpBlock\\Models\\DTOs\\Response\\IpLookupResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:49:11.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IIpApiService.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Services\\IIpApiService.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Services\\IIpApiService.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Services\\IIpApiService.cs",
+              "RelativeToolTip": "IpBlock\\Services\\IIpApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T14:35:13.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Services\\ILogService.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Services\\ILogService.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Services\\ILogService.cs",
+              "RelativeToolTip": "IpBlock\\Services\\ILogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:02:18.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Services\\LogService.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Services\\LogService.cs",
+              "RelativeToolTip": "IpBlock\\Services\\LogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:02:27.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILogRepository.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Repositories\\ILogRepository.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Repositories\\ILogRepository.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Repositories\\ILogRepository.cs",
+              "RelativeToolTip": "IpBlock\\Repositories\\ILogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:51:10.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogRepository.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Repositories\\LogRepository.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Repositories\\LogRepository.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Repositories\\LogRepository.cs",
+              "RelativeToolTip": "IpBlock\\Repositories\\LogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:52:41.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IpApiService.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Services\\IpApiService.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Services\\IpApiService.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Services\\IpApiService.cs",
+              "RelativeToolTip": "IpBlock\\Services\\IpApiService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvwwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T12:30:28.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlockLogEntry.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Models\\BlockLogEntry.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Models\\BlockLogEntry.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Models\\BlockLogEntry.cs",
+              "RelativeToolTip": "IpBlock\\Models\\BlockLogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:51:26.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "BlockCountryEntity.cs",
               "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Models\\BlockCountryEntity.cs",
               "RelativeDocumentMoniker": "IpBlock\\Models\\BlockCountryEntity.cs",
               "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Models\\BlockCountryEntity.cs",
               "RelativeToolTip": "IpBlock\\Models\\BlockCountryEntity.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T08:00:42.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "IpController.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Controllers\\IpController.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Controllers\\IpController.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Controllers\\IpController.cs",
+              "RelativeToolTip": "IpBlock\\Controllers\\IpController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAD4vx4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:48:29.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Controllers\\LogsController.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Controllers\\LogsController.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Controllers\\LogsController.cs",
+              "RelativeToolTip": "IpBlock\\Controllers\\LogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:46:46.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Program.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Program.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Program.cs",
+              "RelativeToolTip": "IpBlock\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwBcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:40:22.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "CountryService.cs",
               "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Services\\CountryService.cs",
               "RelativeDocumentMoniker": "IpBlock\\Services\\CountryService.cs",
               "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Services\\CountryService.cs",
               "RelativeToolTip": "IpBlock\\Services\\CountryService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowCIAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T07:53:45.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TemporalBlockRequest.cs",
-              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Models\\DTOs\\Request\\TemporalBlockRequest.cs",
-              "RelativeDocumentMoniker": "IpBlock\\Models\\DTOs\\Request\\TemporalBlockRequest.cs",
-              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Models\\DTOs\\Request\\TemporalBlockRequest.cs",
-              "RelativeToolTip": "IpBlock\\Models\\DTOs\\Request\\TemporalBlockRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T08:00:32.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ICountryService.cs",
-              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Services\\ICountryService.cs",
-              "RelativeDocumentMoniker": "IpBlock\\Services\\ICountryService.cs",
-              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Services\\ICountryService.cs",
-              "RelativeToolTip": "IpBlock\\Services\\ICountryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T07:54:09.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "CountryRepository.cs",
               "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Repositories\\CountryRepository.cs",
               "RelativeDocumentMoniker": "IpBlock\\Repositories\\CountryRepository.cs",
               "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Repositories\\CountryRepository.cs",
               "RelativeToolTip": "IpBlock\\Repositories\\CountryRepository.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T07:58:15.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CountriesController.cs",
-              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Controllers\\CountriesController.cs",
-              "RelativeDocumentMoniker": "IpBlock\\Controllers\\CountriesController.cs",
-              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Controllers\\CountriesController.cs",
-              "RelativeToolTip": "IpBlock\\Controllers\\CountriesController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA8wCMAAACeAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "IpApiOptions.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Options\\IpApiOptions.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Options\\IpApiOptions.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Options\\IpApiOptions.cs",
+              "RelativeToolTip": "IpBlock\\Options\\IpApiOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T07:54:32.491Z",
+              "WhenOpened": "2025-10-31T12:46:09.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 15,
+              "Title": "TemporalBlockCleanupOptions.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Options\\TemporalBlockCleanupOptions.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Options\\TemporalBlockCleanupOptions.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Options\\TemporalBlockCleanupOptions.cs",
+              "RelativeToolTip": "IpBlock\\Options\\TemporalBlockCleanupOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:50:54.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\appsettings.json",
+              "RelativeDocumentMoniker": "IpBlock\\appsettings.json",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\appsettings.json",
+              "RelativeToolTip": "IpBlock\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T12:28:59.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "IpBlock\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:58:45.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "TemporalBlockCleanupService.cs",
               "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Services\\TemporalBlockCleanupService.cs",
               "RelativeDocumentMoniker": "IpBlock\\Services\\TemporalBlockCleanupService.cs",
@@ -177,58 +369,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ConflictException.cs",
-              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Exceptions\\ConflictException.cs",
-              "RelativeDocumentMoniker": "IpBlock\\Exceptions\\ConflictException.cs",
-              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Exceptions\\ConflictException.cs",
-              "RelativeToolTip": "IpBlock\\Exceptions\\ConflictException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T07:58:39.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Program.cs",
-              "RelativeDocumentMoniker": "IpBlock\\Program.cs",
-              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Program.cs",
-              "RelativeToolTip": "IpBlock\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T08:40:22.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "ICountryRepository.cs",
               "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Repositories\\ICountryRepository.cs",
               "RelativeDocumentMoniker": "IpBlock\\Repositories\\ICountryRepository.cs",
               "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Repositories\\ICountryRepository.cs",
               "RelativeToolTip": "IpBlock\\Repositories\\ICountryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T07:57:25.633Z",
+              "WhenOpened": "2025-10-31T07:57:25.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Controllers\\CountriesController.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "IpBlock\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:54:32.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "AppException.cs",
               "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Exceptions\\AppException.cs",
               "RelativeDocumentMoniker": "IpBlock\\Exceptions\\AppException.cs",
               "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Exceptions\\AppException.cs",
               "RelativeToolTip": "IpBlock\\Exceptions\\AppException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T07:58:36.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T07:58:36.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Services\\ICountryService.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Services\\ICountryService.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Services\\ICountryService.cs",
+              "RelativeToolTip": "IpBlock\\Services\\ICountryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T07:54:09.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TemporalBlockRequest.cs",
+              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Models\\DTOs\\Request\\TemporalBlockRequest.cs",
+              "RelativeDocumentMoniker": "IpBlock\\Models\\DTOs\\Request\\TemporalBlockRequest.cs",
+              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Models\\DTOs\\Request\\TemporalBlockRequest.cs",
+              "RelativeToolTip": "IpBlock\\Models\\DTOs\\Request\\TemporalBlockRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:00:32.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "BlockCountryRequest.cs",
               "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Models\\DTOs\\Request\\BlockCountryRequest.cs",
               "RelativeDocumentMoniker": "IpBlock\\Models\\DTOs\\Request\\BlockCountryRequest.cs",
@@ -236,60 +438,11 @@
               "RelativeToolTip": "IpBlock\\Models\\DTOs\\Request\\BlockCountryRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T08:00:29.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T08:00:29.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BadRequestException.cs",
-              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Exceptions\\BadRequestException.cs",
-              "RelativeDocumentMoniker": "IpBlock\\Exceptions\\BadRequestException.cs",
-              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Exceptions\\BadRequestException.cs",
-              "RelativeToolTip": "IpBlock\\Exceptions\\BadRequestException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T08:48:11.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "IpBlock\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "IpBlock\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T07:58:41.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ExceptionHandlingMiddleware.cs",
-              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "IpBlock\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "RelativeToolTip": "IpBlock\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T07:58:45.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "InternalServerErrorException.cs",
-              "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Exceptions\\InternalServerErrorException.cs",
-              "RelativeDocumentMoniker": "IpBlock\\Exceptions\\InternalServerErrorException.cs",
-              "ToolTip": "D:\\Git\\IpBlock\\IpBlock\\Exceptions\\InternalServerErrorException.cs",
-              "RelativeToolTip": "IpBlock\\Exceptions\\InternalServerErrorException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T08:50:02.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "PagedResponse.cs",
               "DocumentMoniker": "D:\\Git\\IpBlock\\IpBlock\\Models\\DTOs\\Response\\PagedResponse.cs",
               "RelativeDocumentMoniker": "IpBlock\\Models\\DTOs\\Response\\PagedResponse.cs",

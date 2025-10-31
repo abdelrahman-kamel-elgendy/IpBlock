@@ -7,7 +7,7 @@ namespace IpBlock.Services
     public class TemporalBlockCleanupService : BackgroundService
     {
         private readonly ICountryRepository _repo;
-        private readonly TimeSpan _interval = TimeSpan.FromMinutes(3);
+        private readonly TimeSpan _interval = TimeSpan.FromMinutes(5);
 
         public TemporalBlockCleanupService(ICountryRepository repo)
         {

@@ -9,6 +9,7 @@ namespace IpBlock.Services
         BlockCountryEntity AddBlocked(BlockCountryRequest request);
         BlockCountryEntity AddBlocked(TemporalBlockRequest request);
         PagedResponse<object> GetAll(int page, int pageSize, string? q);
+        bool IsBlocked(string countryCode);
         bool RemoveBlocked(string countryCode);
     }
 }
