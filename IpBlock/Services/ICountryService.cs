@@ -1,0 +1,14 @@
+﻿using IpBlock.Models;
+using IpBlock.Models.DTOs.Request;
+using IpBlock.Models.DTOs.Response;
+
+namespace IpBlock.Services
+{
+    public interface ICountryService
+    {
+        BlockCountryEntity AddBlocked(BlockCountryRequest request);
+
+        PagedResponse<object> GetAll(int page, int pageSize, string? q);
+        bool RemoveBlocked(string countryCode);
+    }
+}
